@@ -1,6 +1,0 @@
-disabled: []
-enabled:
-  - id: akamud.vscode-theme-onedark
-    uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
-  - id: zokugun.cron-tasks
-    uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
