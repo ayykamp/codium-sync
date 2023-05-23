@@ -1,0 +1,141 @@
+// Platzieren Sie Ihre Tastenzuordnungen in dieser Datei, um die Standardwerte zu überschreiben.
+[
+    {
+        "key": "f10",
+        "command": "polacode.activate"
+    },
+    {
+        "key": "ctrl+shift+q",
+        "command": "git.push"
+    },
+    {
+        "key": "ctrl+alt+c",
+        "command": "-extension.AIOcompile",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "f7",
+        "command": "extension.AIOexecute",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+r",
+        "command": "-extension.AIOexecute",
+        "when": "editorTextFocus"
+    },
+    { 
+        "key": "ctrl+`",
+        "command": "workbench.action.terminal.focus"
+    },
+    { 
+        "key": "ctrl+`",
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "f6",
+        "command": "code-runner.run"
+    },
+    {
+        "key": "ctrl+alt+n",
+        "command": "-code-runner.run"
+    },
+    {
+        "key": "ctrl+oem_7",
+        "command": "workbench.action.quickOpenTerm"
+    },
+    {
+        "key": "ctrl+tab",
+        "command": "workbench.action.terminal.split",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+oem_5",
+        "command": "-workbench.action.terminal.split",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "alt+delete",
+        "command": "workbench.action.terminal.kill"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "workbench.action.terminal.focusFindWidget",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-workbench.action.terminal.focusFindWidget",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "f6",
+        "command": "code-runner.run",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+u",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus",
+        "args": {
+          "langId": "java",
+          "name": "PrintToConsole"
+        }
+    },
+    {
+        "key": "f9",
+        "command": "polacode-fork.activate"
+    },
+    {
+        "key": "ctrl+f5",
+        "command": "workbench.action.debug.restart",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "ctrl+shift+f5",
+        "command": "-workbench.action.debug.restart",
+        "when": "inDebugMode"
+    },
+    {
+        "key": "f7",
+        "command": "polacode.copy"
+    },
+    {
+        "key": "ctrl+f6",
+        "command": "java.test.explorer.run"
+    },
+    {
+        "key": "ctrl+t ctrl+r",
+        "command": "java.test.show.report"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "search.action.replaceAll",
+        "when": "replaceActive && searchViewletVisible && !findWidgetVisible"
+    },
+    {
+        "key": "ctrl+alt+enter",
+        "command": "-search.action.replaceAll",
+        "when": "replaceActive && searchViewletVisible && !findWidgetVisible"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "-notebook.centerActiveCell",
+        "when": "notebookEditorFocused"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "-expandLineSelection",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "editor.debug.action.toggleBreakpoint",
+        "when": "debuggersAvailable && editorTextFocus"
+    },
+    {
+        "key": "f9",
+        "command": "-editor.debug.action.toggleBreakpoint",
+        "when": "debuggersAvailable && editorTextFocus"
+    }
+]

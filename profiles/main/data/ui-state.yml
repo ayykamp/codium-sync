@@ -1,0 +1,412 @@
+dbaeumer.vscode-eslint: '{"eslintLibraries":{"libs":{"C:\\Users\\Ayyy\\AppData\\Roaming\\npm\\node_modules\\eslint\\lib\\api.js":true}}}'
+ms-python.python: '{"EXPERIMENT_STORAGE_KEY":[{"name":"AlwaysDisplayTestExplorer
+  -
+  experiment","salt":"AlwaysDisplayTestExplorer","min":80,"max":100},{"name":"AlwaysDisplayTestExplorer
+  -
+  control","salt":"AlwaysDisplayTestExplorer","min":0,"max":20},{"name":"ShowPlayIcon
+  -
+  start","salt":"ShowPlayIcon","max":100,"min":0},{"name":"ShowExtensionSurveyPrompt
+  -
+  enabled","salt":"ShowExtensionSurveyPrompt","max":100,"min":60},{"name":"ShowExtensionSurveyPrompt
+  -
+  control","salt":"ShowExtensionSurveyPrompt","min":0,"max":40},{"name":"DebugAdapterFactory
+  -
+  control","salt":"DebugAdapterFactory","min":0,"max":0},{"name":"DebugAdapterFactory
+  -
+  experiment","salt":"DebugAdapterFactory","min":0,"max":100},{"name":"PtvsdWheels37
+  -
+  control","salt":"DebugAdapterFactory","min":0,"max":0},{"name":"PtvsdWheels37
+  - experiment","salt":"DebugAdapterFactory","min":0,"max":100},{"name":"Reload
+  - control","salt":"DebugAdapterFactory","min":0,"max":0},{"name":"Reload -
+  experiment","salt":"DebugAdapterFactory","min":0,"max":0},{"name":"UseTerminalToGetActivatedEnvVars
+  -
+  experiment","salt":"UseTerminalToGetActivatedEnvVars","min":0,"max":0},{"name":"UseTerminalToGetActivatedEnvVars
+  -
+  control","salt":"UseTerminalToGetActivatedEnvVars","min":0,"max":100},{"name":"AA_testing
+  - control","salt":"AA_testing","min":0,"max":10},{"name":"AA_testing -
+  experiment","salt":"AA_testing","min":90,"max":100},{"name":"LocalZMQKernel -
+  experiment","salt":"LocalZMQKernel","min":0,"max":100},{"name":"LocalZMQKernel
+  -
+  control","salt":"LocalZMQKernel","min":0,"max":0},{"name":"CollectLSRequestTiming
+  -
+  experiment","salt":"CollectLSRequestTiming","min":0,"max":10},{"name":"CollectLSRequestTiming
+  -
+  control","salt":"CollectLSRequestTiming","min":10,"max":100},{"name":"CollectNodeLSRequestTiming
+  -
+  experiment","salt":"CollectNodeLSRequestTiming","min":0,"max":100},{"name":"CollectNodeLSRequestTiming
+  -
+  control","salt":"CollectNodeLSRequestTiming","min":0,"max":0},{"name":"EnableIPyWidgets
+  -
+  experiment","salt":"EnableIPyWidgets","min":0,"max":100},{"name":"EnableIPyWidgets
+  -
+  control","salt":"EnableIPyWidgets","min":0,"max":0},{"name":"DeprecatePythonPath
+  -
+  experiment","salt":"DeprecatePythonPath","min":0,"max":20},{"name":"DeprecatePythonPath
+  - control","salt":"DeprecatePythonPath","min":80,"max":100},{"name":"RunByLine
+  - experiment","salt":"RunByLine","min":0,"max":100},{"name":"RunByLine -
+  control","salt":"RunByLine","min":0,"max":0},{"name":"CustomEditorSupport -
+  control","salt":"CustomEditorSupport","min":0,"max":100},{"name":"CustomEditorSupport
+  -
+  experiment","salt":"CustomEditorSupport","min":0,"max":0},{"name":"NativeNotebook
+  -
+  experiment","salt":"CustomEditorSupport","max":0,"min":0}],"IS_EXPERIMENTS_STORAGE_VALID_KEY":{"data":true,"expiry":1614555745204},"INTERPRETERS_CACHE_v3_CondaEnvFileService":[],"INTERPRETERS_CACHE_v3_VirtualEnvService":[],"SWITCH_LS":"Pylance","LS.LAST.CHECK.TIME":{"data":false,"expiry":1636068752714},"C:\\Users\\Ayyy\\.windows-build-tools\\python27\\python.exe.v3":{"data":{"architecture":3,"path":"C:\\Users\\Ayyy\\.windows-build-tools\\python27\\python.exe","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.15-final","major":2,"minor":7,"patch":15,"prerelease":["final"],"build":[],"version":"2.7.15-final"},"sysPrefix":"C:\\Users\\Ayyy\\.windows-build-tools\\python27","fileHash":"02df7e644daf79d521e28b0297dcb38748b4d8d472351c9a6d2eb084eb418f3430f629f452bc08c45b9e591686c0cc901af5253ce4f63767901816fccbf720c1"},"expiry":1602170662114},"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe.v3":{"data":{"architecture":3,"path":"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.4-final","major":3,"minor":7,"patch":4,"prerelease":["final"],"build":[],"version":"3.7.4-final"},"sysVersion":"3.7.4
+  (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit
+  (AMD64)]","sysPrefix":"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37","fileHash":"fe674dbfd1a159fc6e9543cbfd1be7699d4cb5c120fe774ebc8706f1921cd835a600aae578d2e9192f5895a894119016f63acaf0031d89a31ab9fd9e72725178"},"expiry":1614522328899},"INTERPRETERS_CACHE_v3_WindowsRegistryService":[{"architecture":3,"path":"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.4-final","major":3,"minor":7,"patch":4,"prerelease":["final"],"build":[],"version":"3.7.4-final"},"sysVersion":"3.7.4
+  (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit
+  (AMD64)]","sysPrefix":"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37","fileHash":"fe674dbfd1a159fc6e9543cbfd1be7699d4cb5c120fe774ebc8706f1921cd835a600aae578d2e9192f5895a894119016f63acaf0031d89a31ab9fd9e72725178","companyDisplayName":"Python
+  Software
+  Foundation","envType":"Unknown"}],"INTERPRETERS_CACHE_v3_CondaEnvService":[],"C:\\Users\\Ayyy\\.windows-build-tools\\python27\\python2.exe.v3":{"data":{"architecture":3,"path":"C:\\Users\\Ayyy\\.windows-build-tools\\python27\\python2.exe","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.15-final","major":2,"minor":7,"patch":15,"prerelease":["final"],"build":[],"version":"2.7.15-final"},"sysPrefix":"C:\\Users\\Ayyy\\.windows-build-tools\\python27","fileHash":"9381f228a208f54b4adb3e7ade7a037d30197e5af48c04bc82ccde37f9fdbfb098dadec736d22f122352795da8ae4b8dd41c7e6f63862f4dc9d0dc197d3c3dd9"},"expiry":1602170662083},"INTERPRETERS_CACHE_v3_KnownPathsService":[{"architecture":2,"path":"/usr/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python2","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python2.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"108e92af66d42883c29b9936e94780e502cb4a0e54dec9b5ca8edbc8d1e65955943d5f5e50ee87bdd80518a1bbced6c19da3c6fd483069a4e9828685cd168848","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python3.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"f4301b5e20a3935e5a6467ac5c69d54a51e813cc3ecd1cc4c2571fd560a58cc12a1e0fa5ec61b90652cdfaf2e31d82984e87d0b6fb7359e378c5b1fed5e8c39f","envType":"Unknown"},{"architecture":2,"path":"/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/bin/python2","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/bin/python2.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"108e92af66d42883c29b9936e94780e502cb4a0e54dec9b5ca8edbc8d1e65955943d5f5e50ee87bdd80518a1bbced6c19da3c6fd483069a4e9828685cd168848","envType":"Unknown"},{"architecture":2,"path":"/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown"},{"architecture":2,"path":"/bin/python3.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"f4301b5e20a3935e5a6467ac5c69d54a51e813cc3ecd1cc4c2571fd560a58cc12a1e0fa5ec61b90652cdfaf2e31d82984e87d0b6fb7359e378c5b1fed5e8c39f","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python2","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python2.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"108e92af66d42883c29b9936e94780e502cb4a0e54dec9b5ca8edbc8d1e65955943d5f5e50ee87bdd80518a1bbced6c19da3c6fd483069a4e9828685cd168848","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python3.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"f4301b5e20a3935e5a6467ac5c69d54a51e813cc3ecd1cc4c2571fd560a58cc12a1e0fa5ec61b90652cdfaf2e31d82984e87d0b6fb7359e378c5b1fed5e8c39f","envType":"Unknown"},{"architecture":2,"path":"/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/bin/python2","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/bin/python2.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"108e92af66d42883c29b9936e94780e502cb4a0e54dec9b5ca8edbc8d1e65955943d5f5e50ee87bdd80518a1bbced6c19da3c6fd483069a4e9828685cd168848","envType":"Unknown"},{"architecture":2,"path":"/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown"},{"architecture":2,"path":"/bin/python3.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"f4301b5e20a3935e5a6467ac5c69d54a51e813cc3ecd1cc4c2571fd560a58cc12a1e0fa5ec61b90652cdfaf2e31d82984e87d0b6fb7359e378c5b1fed5e8c39f","envType":"Unknown"}],"INTERPRETERS_CACHE_v3_CurrentPathService":[{"architecture":2,"path":"/usr/bin/python3.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"f4301b5e20a3935e5a6467ac5c69d54a51e813cc3ecd1cc4c2571fd560a58cc12a1e0fa5ec61b90652cdfaf2e31d82984e87d0b6fb7359e378c5b1fed5e8c39f","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python2","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown"},{"architecture":2,"path":"/usr/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown"}],"PipEnvInformation":[],"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe.interpreter.displayName.v7":{"data":{"displayName":"Python
+  3.7.4
+  64-bit","hash":"fe674dbfd1a159fc6e9543cbfd1be7699d4cb5c120fe774ebc8706f1921cd835a600aae578d2e9192f5895a894119016f63acaf0031d89a31ab9fd9e72725178-96d1e67861d6d09caa64d6fd26b95325"},"expiry":1614640345811},"C:\\Users\\Ayyy\\.windows-build-tools\\python27\\python.exe.interpreter.displayName.v7":{"data":{"displayName":"Python
+  2.7.15
+  64-bit","hash":"02df7e644daf79d521e28b0297dcb38748b4d8d472351c9a6d2eb084eb418f3430f629f452bc08c45b9e591686c0cc901af5253ce4f63767901816fccbf720c1-09501a8fe47e239af1524d40d8316c06"},"expiry":1602170672600},"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe.interpreter.Details.v7":{"data":{"fileHash":"fe674dbfd1a159fc6e9543cbfd1be7699d4cb5c120fe774ebc8706f1921cd835a600aae578d2e9192f5895a894119016f63acaf0031d89a31ab9fd9e72725178"},"expiry":1614640345223},"C:\\Users\\Ayyy\\.windows-build-tools\\python27\\python.exe.interpreter.Details.v7":{"data":{"fileHash":"02df7e644daf79d521e28b0297dcb38748b4d8d472351c9a6d2eb084eb418f3430f629f452bc08c45b9e591686c0cc901af5253ce4f63767901816fccbf720c1","info":{"architecture":3,"path":"C:\\Users\\Ayyy\\.windows-build-tools\\python27\\python.exe","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.15-final","major":2,"minor":7,"patch":15,"prerelease":["final"],"build":[],"version":"2.7.15-final"},"sysPrefix":"C:\\Users\\Ayyy\\.windows-build-tools\\python27","fileHash":"02df7e644daf79d521e28b0297dcb38748b4d8d472351c9a6d2eb084eb418f3430f629f452bc08c45b9e591686c0cc901af5253ce4f63767901816fccbf720c1","companyDisplayName":"Python
+  Software Foundation","envType":"Unknown","displayName":"Python 2.7.15
+  64-bit"}},"expiry":1602170672607},"LSSurveyShowAttempt":13,"LSSurveyShowCount":365.48867017624167,"VSCode.ABExp.FeatureData":{"features":["livesharecontinuousaacf","reusableLinks","pythonaacf","RemoveKernelToolbarInInteractiveWindow","tryPylance","portForwardingServiceEnabled-development","portForwardingServiceEnabled-staging","portForwardingServiceEnabled-production","tryPylancePromptText2","debuggerDataViewer","pythonSendEntireLineToREPL","pythonNotDisplayLinterPrompt"],"assignmentContext":"vsliv368cf:30146710;vsreu685:30147344;vspyt267cf:30161958;python383:30185418;pythonvstry403:30219215;pythonvspyt617cf:30253240;vspor879:30202332;vspor708:30202333;vspor363:30204092;vstry914:30256638;pythonvsdeb440:30248342;pythonvsded773:30248341;pythonvspyt875:30259475;","configs":[{"Id":"vscode","Parameters":{"livesharecontinuousaa":false,"reusableLinks":true,"pythonaa":false,"RemoveKernelToolbarInInteractiveWindow":true,"tryPylance":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-staging":true,"portForwardingServiceEnabled-production":true,"tryPylancePromptText2":"For
+  improved Python editing with better and faster auto-completions, install the
+  new Pylance
+  extension!","debuggerDataViewer":true,"pythonSendEntireLineToREPL":true,"pythonNotDisplayLinterPrompt":true}}]},"InteractiveShiftEnterBanner":false,"extensionVersion":"2021.7.1060902895","InterpreterSelectionTip":true,"JoinMailingListPrompt":true,"/usr/bin/python2.7.v3":{"data":{"architecture":2,"path":"/usr/bin/python2.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"108e92af66d42883c29b9936e94780e502cb4a0e54dec9b5ca8edbc8d1e65955943d5f5e50ee87bdd80518a1bbced6c19da3c6fd483069a4e9828685cd168848"},"expiry":1635003976595},"/usr/bin/python2.v3":{"data":{"architecture":2,"path":"/usr/bin/python2","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af"},"expiry":1635003976596},"/usr/bin/python.v3":{"data":{"architecture":2,"path":"/usr/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af"},"expiry":1635003976597},"/usr/bin/python3.6.v3":{"data":{"architecture":3,"path":"/usr/bin/python3.6","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.6.9-final","major":3,"minor":6,"patch":9,"prerelease":["final"],"build":[],"version":"3.6.9-final"},"sysVersion":"3.6.9
+  (default, Oct  8 2020, 12:12:24) \n[GCC
+  8.4.0]","sysPrefix":"/usr","fileHash":"96dc9473ca9d9ee7f92ecddbb5734020ad7c1cf2f03d687c968a1809647a4033540bf9a84bbfe48133f67361e9cada57d83ca5bef5c3c8ad692c36b7d61e57ca"},"expiry":1614522949867},"/usr/bin/python3.v3":{"data":{"architecture":2,"path":"/usr/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868"},"expiry":1635003974884},"/usr/bin/python.interpreter.displayName.v7":{"data":{"displayName":"Python
+  2.7.16
+  32-bit","hash":"/usr/bin/python"},"expiry":1628082406439},"/usr/bin/python3.interpreter.displayName.v7":{"data":{"displayName":"Python
+  3.7.3
+  32-bit","hash":"/usr/bin/python3"},"expiry":1635003976993},"/usr/bin/python.interpreter.Details.v7":{"data":{"fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","info":{"architecture":2,"path":"/usr/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown","displayName":"Python
+  2.7.16
+  32-bit"}},"expiry":1628082406520},"/usr/bin/python3.interpreter.Details.v7":{"data":{"fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","info":{"architecture":2,"path":"/usr/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown","cachedEntry":true,"displayName":"Python
+  3.7.3
+  32-bit","store":true}},"expiry":1635003973665},"DOWNLOADED_EXPERIMENTS_STORAGE_KEY":[{"name":"AlwaysDisplayTestExplorer
+  -
+  experiment","salt":"AlwaysDisplayTestExplorer","min":80,"max":100},{"name":"AlwaysDisplayTestExplorer
+  -
+  control","salt":"AlwaysDisplayTestExplorer","min":0,"max":20},{"name":"ShowPlayIcon
+  -
+  start","salt":"ShowPlayIcon","max":100,"min":0},{"name":"ShowExtensionSurveyPrompt
+  -
+  enabled","salt":"ShowExtensionSurveyPrompt","max":100,"min":60},{"name":"ShowExtensionSurveyPrompt
+  -
+  control","salt":"ShowExtensionSurveyPrompt","min":0,"max":40},{"name":"DebugAdapterFactory
+  -
+  control","salt":"DebugAdapterFactory","min":0,"max":0},{"name":"DebugAdapterFactory
+  -
+  experiment","salt":"DebugAdapterFactory","min":0,"max":100},{"name":"PtvsdWheels37
+  -
+  control","salt":"DebugAdapterFactory","min":0,"max":0},{"name":"PtvsdWheels37
+  - experiment","salt":"DebugAdapterFactory","min":0,"max":100},{"name":"Reload
+  - control","salt":"DebugAdapterFactory","min":0,"max":0},{"name":"Reload -
+  experiment","salt":"DebugAdapterFactory","min":0,"max":0},{"name":"UseTerminalToGetActivatedEnvVars
+  -
+  experiment","salt":"UseTerminalToGetActivatedEnvVars","min":0,"max":0},{"name":"UseTerminalToGetActivatedEnvVars
+  -
+  control","salt":"UseTerminalToGetActivatedEnvVars","min":0,"max":100},{"name":"AA_testing
+  - control","salt":"AA_testing","min":0,"max":10},{"name":"AA_testing -
+  experiment","salt":"AA_testing","min":90,"max":100},{"name":"LocalZMQKernel -
+  experiment","salt":"LocalZMQKernel","min":0,"max":100},{"name":"LocalZMQKernel
+  -
+  control","salt":"LocalZMQKernel","min":0,"max":0},{"name":"CollectLSRequestTiming
+  -
+  experiment","salt":"CollectLSRequestTiming","min":0,"max":10},{"name":"CollectLSRequestTiming
+  -
+  control","salt":"CollectLSRequestTiming","min":10,"max":100},{"name":"CollectNodeLSRequestTiming
+  -
+  experiment","salt":"CollectNodeLSRequestTiming","min":0,"max":100},{"name":"CollectNodeLSRequestTiming
+  -
+  control","salt":"CollectNodeLSRequestTiming","min":0,"max":0},{"name":"EnableIPyWidgets
+  -
+  experiment","salt":"EnableIPyWidgets","min":0,"max":100},{"name":"EnableIPyWidgets
+  -
+  control","salt":"EnableIPyWidgets","min":0,"max":0},{"name":"DeprecatePythonPath
+  -
+  experiment","salt":"DeprecatePythonPath","min":0,"max":20},{"name":"DeprecatePythonPath
+  - control","salt":"DeprecatePythonPath","min":80,"max":100},{"name":"RunByLine
+  - experiment","salt":"RunByLine","min":0,"max":100},{"name":"RunByLine -
+  control","salt":"RunByLine","min":0,"max":0},{"name":"CustomEditorSupport -
+  control","salt":"CustomEditorSupport","min":0,"max":100},{"name":"CustomEditorSupport
+  -
+  experiment","salt":"CustomEditorSupport","min":0,"max":0},{"name":"NativeNotebook
+  -
+  experiment","salt":"CustomEditorSupport","max":0,"min":0}],"InterpreterAutoSeletionRule-currentPath":{"architecture":2,"path":"/usr/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown"},"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS":[],"InterpreterAutoSeletionRule-system":{"architecture":2,"path":"/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown","cachedEntry":true,"displayName":"Python
+  3.7.3
+  32-bit"},"/bin/python2.7.v3":{"data":{"architecture":2,"path":"/bin/python2.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"108e92af66d42883c29b9936e94780e502cb4a0e54dec9b5ca8edbc8d1e65955943d5f5e50ee87bdd80518a1bbced6c19da3c6fd483069a4e9828685cd168848"},"expiry":1635003976664},"/bin/python2.v3":{"data":{"architecture":2,"path":"/bin/python2","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af"},"expiry":1635003976593},"/bin/python.v3":{"data":{"architecture":2,"path":"/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af"},"expiry":1635003976594},"/usr/bin/python3.8.v3":{"data":{"architecture":3,"path":"/usr/bin/python3.8","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.8.5","major":3,"minor":8,"patch":5,"prerelease":[],"build":[],"version":"3.8.5"},"sysVersion":"3.8.5
+  (default, May 27 2021, 13:30:53) \n[GCC
+  9.3.0]","sysPrefix":"/usr","fileHash":"9c2dfcd0e140b4f38fddfe4689723d8283317dd1070e356d4fcd5360baafb3fa111a3795a764297ab3b170d59274d8ad718d888c80da7c61f936a369d3af9cca"},"expiry":1623242664924},"/bin/python3.8.v3":{"data":{"architecture":3,"path":"/bin/python3.8","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.8.5","major":3,"minor":8,"patch":5,"prerelease":[],"build":[],"version":"3.8.5"},"sysVersion":"3.8.5
+  (default, May 27 2021, 13:30:53) \n[GCC
+  9.3.0]","sysPrefix":"/usr","fileHash":"9c2dfcd0e140b4f38fddfe4689723d8283317dd1070e356d4fcd5360baafb3fa111a3795a764297ab3b170d59274d8ad718d888c80da7c61f936a369d3af9cca"},"expiry":1623242664944},"/bin/python3.v3":{"data":{"architecture":2,"path":"/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868"},"expiry":1635003976775},"/bin/python.interpreter.displayName.v7":{"data":{"displayName":"Python
+  2.7.16
+  32-bit","hash":"/bin/python"},"expiry":1628082406439},"/bin/python3.interpreter.displayName.v7":{"data":{"displayName":"Python
+  3.7.3
+  32-bit","hash":"/bin/python3"},"expiry":1628082406439},"/bin/python.interpreter.Details.v7":{"data":{"fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","info":{"architecture":2,"path":"/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"2.7.16","major":2,"minor":7,"patch":16,"prerelease":[],"build":[],"version":"2.7.16"},"sysVersion":"2.7.16
+  (default, Oct 10 2019, 22:02:15) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"616306f27a20c38f2412652765e0264de298a307ee5f4a65d6799a5be377ee7904c5fcad9fdc7f450740f757dd5ebf720ea4ed8c09b7d1a5acf3fbbc35ec95af","envType":"Unknown","displayName":"Python
+  2.7.16
+  32-bit"}},"expiry":1628082406520},"/bin/python3.interpreter.Details.v7":{"data":{"fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","info":{"architecture":2,"path":"/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"94693dc6be50d7644c85179fb8475c3875c02a551c5973fda80470fdb9d1ab6ac475303cc13495a79be2d455631c6c51083dfb4aed64df27a14a4bde747e2868","envType":"Unknown","displayName":"Python
+  3.7.3
+  32-bit"}},"expiry":1628082406520},"InterpreterAutoSeletionRule-cachedInterpreters":{"architecture":3,"path":"/usr/bin/python3","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.8.5","major":3,"minor":8,"patch":5,"prerelease":[],"build":[],"version":"3.8.5"},"sysVersion":"3.8.5
+  (default, May 27 2021, 13:30:53) \n[GCC
+  9.3.0]","sysPrefix":"/usr","fileHash":"598d8f96e53bf5abf96689f15b70af97b3d8561479ae8c4852df7bc6b77bf2b416ab818d26be143205be57282cd019b2a6eede0e50885cb9f3f1ad5a2a231b70","envType":"Unknown"},"pylanceDefaultPromptMemento":true,"/usr/bin/python3.7.v3":{"data":{"architecture":2,"path":"/usr/bin/python3.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"f4301b5e20a3935e5a6467ac5c69d54a51e813cc3ecd1cc4c2571fd560a58cc12a1e0fa5ec61b90652cdfaf2e31d82984e87d0b6fb7359e378c5b1fed5e8c39f"},"expiry":1635003976595},"/bin/python3.7.v3":{"data":{"architecture":2,"path":"/bin/python3.7","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.7.3","major":3,"minor":7,"patch":3,"prerelease":[],"build":[],"version":"3.7.3"},"sysVersion":"3.7.3
+  (default, Jan 22 2021, 20:04:44) \n[GCC
+  8.3.0]","sysPrefix":"/usr","fileHash":"f4301b5e20a3935e5a6467ac5c69d54a51e813cc3ecd1cc4c2571fd560a58cc12a1e0fa5ec61b90652cdfaf2e31d82984e87d0b6fb7359e378c5b1fed5e8c39f"},"expiry":1635003976774},"GLOBAL_DIAGNOSTICS_FILTER":["MPLSSurveyDiagnostic","LSNotSupportedDiagnostic","LSNotSupportedDiagnostic","PythonPathDeprecatedDiagnostic"],"preferredGlobalPyInterpreter":{"id":"/bin/python3.9","sysPrefix":"/usr","envType":"Global","envName":"","envPath":"","path":"/bin/python3.9","architecture":3,"sysVersion":"3.9.15
+  (main, Oct 12 2022, 19:14:24) \n[GCC
+  9.4.0]","version":{"raw":"3.9.15","major":3,"minor":9,"patch":15,"build":[],"prerelease":["final","0"]},"displayName":"Python
+  3.9.15 64-bit","detailedDisplayName":"Python 3.9.15
+  64-bit"},"WORKSPACE_FOLDER_INTERPRETER_PATH_/home/arda/ticket_checker_berlinale":"/usr/bin/python3","isRemoteGlobalSettingCopiedKey":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_A:\\PROJECTS\\DM":true,"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key":["/home/arda/projects/dm","/home/arda/projects/ticket_checker_berlinale","/home/ayyy/projects/dm","/mnt/a/projects/dm","A:\\PROJECTS\\DM"],"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/ayyy/projects/dm":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_/home/arda/projects/ticket_checker_berlinale":true,"ssh-remote_WORKSPACE_FOLDER_INTERPRETER_PATH_/home/arda/projects/ticket_checker_berlinale":"bin/python","PYTHON_WAS_DISCOVERY_TRIGGERED_/home/arda/projects/dm":true,"PYTHON_ENV_INFO_CACHE":[{"name":"","location":"","kind":"global-other","executable":{"filename":"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe","sysPrefix":"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37","ctime":1629655712010,"mtime":1562610978000},"display":"Python
+  3.7.4
+  64-bit","version":{"major":3,"minor":7,"micro":4,"release":{"level":"final","serial":0},"sysVersion":"3.7.4
+  (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit
+  (AMD64)]"},"arch":3,"distro":{"org":"PythonCore","defaultDisplayName":"Python
+  3.7 (64-bit)"},"source":["path env var","windows
+  registry"],"id":"C:\\USERS\\AYYY\\APPDATA\\LOCAL\\PROGRAMS\\PYTHON\\PYTHON37\\PYTHON.EXE","detailedDisplayName":"Python
+  3.7.4
+  64-bit"}],"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_ENV_INFO_CACHE","defaultValue":[]},{"key":"VSCode.ABExp.FeatureData","defaultValue":{"features":[]}},{"key":"isRemoteGlobalSettingCopiedKey","defaultValue":false},{"key":"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key","defaultValue":[]},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_/home/arda/projects/dm"}]}'
+ms-python.vscode-pylance: '{"insidersChannel":"off"}'
+ms-toolsai.jupyter: '{"trustKeyMigrated":true,"trustDirectoryMigrated":true,"MigratedDataScienceSettingsService":true,"MigratedDataScienceKeybindingsService":true,"VSCode.ABExp.FeatureData":{"features":["livesharecontinuousaacf","reusableLinks","RemoveKernelToolbarInInteractiveWindow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-staging","portForwardingServiceEnabled-production","jupyterTestcf","pylanceIndexingEnabled","NativeNotebookEditor","jupyterEnhancedDataViewer","pythonDeprecatePythonPath","mindaroBinariesVersion","mindaroBinariesVersion-1.0.20210702","mindaroBinariesVersion-1.0.20210723","account-aa"],"assignmentContext":"vsliv368cf:30146710;vsreu685:30147344;python383:30185418;vspor879:30202332;vspor708:30202333;vspor363:30204092;vsjup275cf:30257435;pythonvspyl392:30425749;vsjup518:30340749;pythondataviewer:30285071;pythonvspyt200:30340761;binariesv615:30325510;bridge0708:30335490;bridge0723:30353136;vsaa593:30376534;","configs":[{"Id":"vscode","Parameters":{"livesharecontinuousaa":false,"reusableLinks":true,"RemoveKernelToolbarInInteractiveWindow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-staging":true,"portForwardingServiceEnabled-production":true,"jupyterTest":false,"pylanceIndexingEnabled":true,"NativeNotebookEditor":true,"jupyterEnhancedDataViewer":true,"pythonDeprecatePythonPath":true,"mindaroBinariesVersion":"1.0.20210615.1","mindaroBinariesVersion-1.0.20210702":"1.0.20210708.15","mindaroBinariesVersion-1.0.20210723":"1.0.20210723.6","account-aa":true}}]},"INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true,"CELL_TOOLBAR_SETTING_MEMENTO_KEY":true,"JupyterDetectionTelemetrySentMementoKey":true,"JUPYTER_REMOTE_KERNELSPECS_V4":{"kernels":[],"extensionVersion":"2022.9.1303220346"},"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///home/ayyy/.local/share/jupyter/kernels","JUPYTER_LOCAL_KERNELSPECS_V4":{"kernels":[{"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"c:\\Users\\Ayyy\\.vscode\\extensions\\ms-toolsai.jupyter-2022.9.1303220346\\temp\\jupyter\\kernels\\python374jvsc74a57bd0369b3ba63ac1cf94363441192d623d8776a864faa82fc8cd743978cbeec3f676\\kernel.json","interpreterPath":"c:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"python374jvsc74a57bd0369b3ba63ac1cf94363441192d623d8776a864faa82fc8cd743978cbeec3f676","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python
+  3.7.4
+  64-bit","metadata":{"interpreter":{"path":"c:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"}},"env":{}},"interpreter":{"id":"C:\\USERS\\AYYY\\APPDATA\\LOCAL\\PROGRAMS\\PYTHON\\PYTHON37\\PYTHON.EXE","sysPrefix":"C:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37","envType":"Global","envName":"","architecture":3,"sysVersion":"3.7.4
+  (tags/v3.7.4:e09359112e, Jul  8 2019, 20:34:20) [MSC v.1916 64 bit
+  (AMD64)]","version":{"raw":"3.7.4","major":3,"minor":7,"patch":4,"build":[],"prerelease":["final","0"]},"companyDisplayName":"PythonCore","displayName":"Python
+  3.7.4 64-bit","detailedDisplayName":"Python 3.7.4
+  64-bit","path":"c:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"},"id":".jvsc74a57bd0369b3ba63ac1cf94363441192d623d8776a864faa82fc8cd743978cbeec3f676.c:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe.c:\\Users\\Ayyy\\AppData\\Local\\Programs\\Python\\Python37\\python.exe.-m#ipykernel_launcher"}],"extensionVersion":"2022.9.1303220346"},"JUPYTER_LOCAL_KERNELSPECS_V3":[{"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/ayyy/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/temp/jupyter/kernels/python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"python3810jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python
+  3.8.10
+  64-bit","metadata":{"interpreter":{"path":"/bin/python3"}},"env":{}},"interpreter":{"id":"/bin/python3","sysPrefix":"/usr","envType":"Global","envName":"","architecture":3,"sysVersion":"3.8.10
+  (default, Jun 22 2022, 20:18:18) \n[GCC
+  9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python
+  3.8.10 64-bit","detailedDisplayName":"Python 3.8.10
+  64-bit","path":"/bin/python3"},"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher"},{"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/ayyy/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/temp/jupyter/kernels/python3810jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a/kernel.json","interpreterPath":"/bin/python","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"python3810jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python
+  3.8.10
+  64-bit","metadata":{"interpreter":{"path":"/bin/python"}},"env":{}},"interpreter":{"id":"/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","architecture":3,"sysVersion":"3.8.10
+  (default, Jun 22 2022, 20:18:18) \n[GCC
+  9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python
+  3.8.10 64-bit","detailedDisplayName":"Python 3.8.10
+  64-bit","path":"/bin/python"},"id":".jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher"},{"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/ayyy/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/temp/jupyter/kernels/python3810jvsc74a57bd0767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90/kernel.json","interpreterPath":"/usr/bin/python","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"python3810jvsc74a57bd0767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python
+  3.8.10
+  64-bit","metadata":{"interpreter":{"path":"/usr/bin/python"}},"env":{}},"interpreter":{"id":"/usr/bin/python","sysPrefix":"/usr","envType":"Global","envName":"","architecture":3,"sysVersion":"3.8.10
+  (default, Jun 22 2022, 20:18:18) \n[GCC
+  9.4.0]","version":{"raw":"3.8.10","major":3,"minor":8,"patch":10,"build":[],"prerelease":["final","0"]},"displayName":"Python
+  3.8.10 64-bit","detailedDisplayName":"Python 3.8.10
+  64-bit","path":"/usr/bin/python"},"id":".jvsc74a57bd0767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90./usr/bin/python./usr/bin/python.-m#ipykernel_launcher"},{"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/ayyy/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/temp/jupyter/kernels/python3915jvsc74a57bd0f9f85f796d01129d0dd105a088854619f454435301f6ffec2fea96ecbd9be4ac/kernel.json","interpreterPath":"/bin/python3.9","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"python3915jvsc74a57bd0f9f85f796d01129d0dd105a088854619f454435301f6ffec2fea96ecbd9be4ac","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python
+  3.9.15
+  64-bit","metadata":{"interpreter":{"path":"/bin/python3.9"}},"env":{}},"interpreter":{"id":"/bin/python3.9","sysPrefix":"/usr","envType":"Global","envName":"","architecture":3,"sysVersion":"3.9.15
+  (main, Oct 12 2022, 19:14:24) \n[GCC
+  9.4.0]","version":{"raw":"3.9.15","major":3,"minor":9,"patch":15,"build":[],"prerelease":["final","0"]},"displayName":"Python
+  3.9.15 64-bit","detailedDisplayName":"Python 3.9.15
+  64-bit","path":"/bin/python3.9"},"id":".jvsc74a57bd0f9f85f796d01129d0dd105a088854619f454435301f6ffec2fea96ecbd9be4ac./bin/python3.9./bin/python3.9.-m#ipykernel_launcher"},{"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/ayyy/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848/temp/jupyter/kernels/python3915jvsc74a57bd036cf16204b8548560b1c020c4e8fb5b57f0e4c58016f52f2d4be01e192833930/kernel.json","interpreterPath":"/usr/bin/python3.9","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"python3915jvsc74a57bd036cf16204b8548560b1c020c4e8fb5b57f0e4c58016f52f2d4be01e192833930","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python
+  3.9.15
+  64-bit","metadata":{"interpreter":{"path":"/usr/bin/python3.9"}},"env":{}},"interpreter":{"id":"/usr/bin/python3.9","sysPrefix":"/usr","envType":"Global","envName":"","architecture":3,"sysVersion":"3.9.15
+  (main, Oct 12 2022, 19:14:24) \n[GCC
+  9.4.0]","version":{"raw":"3.9.15","major":3,"minor":9,"patch":15,"build":[],"prerelease":["final","0"]},"displayName":"Python
+  3.9.15 64-bit","detailedDisplayName":"Python 3.9.15
+  64-bit","path":"/usr/bin/python3.9"},"id":".jvsc74a57bd036cf16204b8548560b1c020c4e8fb5b57f0e4c58016f52f2d4be01e192833930./usr/bin/python3.9./usr/bin/python3.9.-m#ipykernel_launcher"}],"REGISTRATION_ID_EXTENSION_OWNER_MEMENTO_KEY":[{"extensionId":"_builtin.jupyterServerUrlProvider","providerId":"ms-toolsai.jupyter"}]}'
+ms-vscode-remote.remote-ssh: '{"folder.history.v1":{"vultr":["/root/docker"],"hetzner":["/root/media-server"],"7b22686f73744e616d65223a22436c6f7564426f78227d":["/opt/TMDB-Collection-Data-Retriever","/home/user/community/roles/radarrx","/opt/cloudplow","/opt/scripts","/opt","/home/user/community","/opt/letterboxd-list-radarr","/home/user/cloudbox","/home/user/quickstart"],"7b22686f73744e616d65223a22474345446973636f7264227d":["/home/discord-bot"],"tkn":["/home/tkn/RNVSWS2021/RNVS-WS2020/block-5","/home/tkn/RNVSWS2021/RNVS-WS2020","/home/tkn/RNVSWS2021/block-5","/home/tkn/RNVSWS2021/block-3","/home/tkn/temp/RNVS-WS2020/block-3","/home/tkn/RNVSWS2021/block-2/reference","/home/tkn/RNVSWS2021/block-2","/home/tkn/RNVSWS2021/block-1"],"feeder":["/opt/cloudplow"],"cloudbox_hetzner":["/mnt/local/downloads/mega/Slavoj
+  Žižek - Documentary Films
+  (1993-2013)","/home/user","/opt/cloudplow","/opt/scripts/nzbget","/opt/bazarr","/opt/scripts","/opt/delugevpn","/opt/portainer"],"tu_ssh":["/home/users/a/arda.uluc/public_html"],"rpi4-fedor":["/home/arda/projects/dm","/home/arda/projects/ticket_checker_berlinale","/mnt/TOSHIBA/media/games/hearthstone-linux","/mnt/TOSHIBA/media/games/hearthstone/hearthstone-linux","/home/arda/ticket_checker_berlinale","/home/arda/ticket_checker","/home/arda/dm","/home/arda"]},"suppressRemotePlatformNotification":true}'
+ms-vscode-remote.remote-wsl: '{"VSCode.ABExp.FeatureData":{"features":["livesharecontinuousaacf","reusableLinks","RemoveKernelToolbarInInteractiveWindow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-staging","portForwardingServiceEnabled-production","presentWelcomePageByDefault","customizedClasspathConfigurationView","mindaroTreatmentVar"],"assignmentContext":"vsliv368cf:30146710;vsreu685:30147344;python383:30185418;vspor879:30202332;vspor708:30202333;vspor363:30204092;vspre833:30267464;vscus158:30286553;bridgeflight:30299254;","configs":[{"Id":"vscode","Parameters":{"livesharecontinuousaa":false,"reusableLinks":true,"RemoveKernelToolbarInInteractiveWindow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-staging":true,"portForwardingServiceEnabled-production":true,"presentWelcomePageByDefault":true,"customizedClasspathConfigurationView":true,"mindaroTreatmentVar":true}}]},"extensionUsed":true,"useWSL2FileSystem":true,"wsl.lastUpdateCheck":1684871316107,"wsl.usageTime.linux-x64":1684871342869}'
+ms-vscode.cmake-tools: '{"/home/tkn/RNVSWS2021/block-1activeVariantSettings":[["buildType","debug"]],"/home/tkn/RNVSWS2021/block-1ignoreCMakeListsMissing":false,"kitsVersionSaved":2,"/home/tkn/RNVSWS2021/block-1activeKitName":"GCC
+  for c99
+  7.5.0","/home/tkn/RNVSWS2021/block-3activeVariantSettings":[["buildType","debug"]],"/home/tkn/RNVSWS2021/block-3ignoreCMakeListsMissing":false,"/home/tkn/RNVSWS2021/block-3activeKitName":"__unspec__","/home/tkn/RNVSWS2021/block-3launchTargetName":"server","/home/tkn/temp/RNVS-WS2020/block-3activeVariantSettings":[["buildType","debug"]],"/home/tkn/temp/RNVS-WS2020/block-3ignoreCMakeListsMissing":false,"/home/tkn/RNVSWS2021/block-3activeBuildTarget":"test","c:\\Users\\Ayyy\\DesktopactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\Ayyy\\DesktopignoreCMakeListsMissing":false,"/home/tkn/RNVSWS2021/block-5activeVariantSettings":[["buildType","debug"]],"/home/tkn/RNVSWS2021/block-5ignoreCMakeListsMissing":false,"/home/tkn/RNVSWS2021/block-5activeKitName":"__unspec__","/home/tkn/RNVSWS2021/block-5launchTargetName":"ntpclient","/home/tkn/RNVSWS2021/RNVS-WS2020activeVariantSettings":[["buildType","debug"]],"/home/tkn/RNVSWS2021/RNVS-WS2020ignoreCMakeListsMissing":false,"/home/tkn/RNVSWS2021/RNVS-WS2020activeKitName":"__unspec__","/home/tkn/RNVSWS2021/RNVS-WS2020/block-5activeVariantSettings":[["buildType","debug"]],"/home/tkn/RNVSWS2021/RNVS-WS2020/block-5ignoreCMakeListsMissing":false,"/home/tkn/RNVSWS2021/RNVS-WS2020/block-5activeKitName":"__unspec__","/home/tkn/RNVSWS2021/RNVS-WS2020/block-5launchTargetName":"ntpclient","c:\\Users\\Ayyy\\AppData\\Roaming\\mpvactiveVariantSettings":[["buildType","debug"]],"c:\\Users\\Ayyy\\AppData\\Roaming\\mpvignoreCMakeListsMissing":false}'
+ms-vscode.cpptools: '{"CPP.0.26.3.Progress":300,"CPP.0.26.3.checkForConflictingExtensions":false,"CPP.UserBucket":17,"ABTest.1":100,"ABTest.2":100,"ABTest.3":100,"ABTest.4":100,"CPP.0.26.3.IntelliSenseProgress":1000,"CPP.suggestInsiders":false,"CPP.0.27.0.Progress":100,"CPP.0.27.1.Progress":100,"CPP.0.28.0.Progress":300,"CPP.0.28.0.checkForConflictingExtensions":false,"CPP.0.28.0.IntelliSenseProgress":1000,"CPP.0.28.1.Progress":300,"CPP.0.28.1.checkForConflictingExtensions":false,"CPP.0.28.1.IntelliSenseProgress":1000,"CPP.0.28.2.Progress":100,"CPP.0.28.3.Progress":300,"CPP.0.28.3.checkForConflictingExtensions":false,"CPP.showIntelliSenseFallbackMessage":false,"CPP.0.29.0.Progress":300,"CPP.0.29.0.checkForConflictingExtensions":false,"CPP.0.29.0.IntelliSenseProgress":1000,"CPP.1.0.1.Progress":300,"CPP.1.0.1.checkForConflictingExtensions":false,"ABTest.5":"1.53.0","CPP.1.1.1.Progress":100,"CPP.1.1.2.Progress":300,"CPP.machineId":"87583c33197fbd4f315307f661c9681aec46d6316a2c9cbca6e9d2cd3f37687e","CPP.1.1.2.checkForConflictingExtensions":false,"CPP.1.1.2.IntelliSenseProgress":1000,"CPP.1.1.3.Progress":300,"CPP.1.1.3.checkForConflictingExtensions":false,"CPP.1.1.3.IntelliSenseProgress":1000,"CPP.1.2.0.Progress":100,"CPP.1.2.1.Progress":100,"CPP.1.2.2.Progress":300,"CPP.1.2.2.checkForConflictingExtensions":false,"CPP.1.2.2.IntelliSenseProgress":1000,"CPP.1.3.0.Progress":100,"CPP.promptForMacArchictureMismatch":true,"CPP.1.3.1.Progress":100,"CPP.1.4.0.Progress":100,"CPP.1.4.1.Progress":100,"CPP.1.5.1.Progress":100,"CPP.1.6.0.Progress":100,"CPP.1.7.1.Progress":100,"CPP.1.10.5.Progress":200,"CPP.1.10.5.ignoreMismatchedCompatibleVsix":false,"CPP.1.10.5.checkForConflictingExtensions":false,"CPP.1.12.4.Progress":300,"CPP.1.12.4.ignoreMismatchedCompatibleVsix":false,"CPP.1.12.4.checkForConflictingExtensions":false}'
+redhat.vscode-yaml: '{"json-schema-key":{"https://json.schemastore.org/ansible-role-2.9.json":{"eTag":"\"0e92ec5a92cd71:0\"","schemaPath":"c:\\Users\\Ayyy\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\51c4ba8de7dd3eae41beca100fa69cec"},"https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-vars.json":{"eTag":"W/\"c94d37535994a667bd515caad02c5481e40a1e26ac09ab07bd45e2febb7da843\"","schemaPath":"c:\\Users\\Ayyy\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\39442e51b7f6843c66b2159a6dfdebb0"},"https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-tasks.json":{"eTag":"W/\"33836e1655ed863558691d1dac8c433522d7b1ff604b80dfd24f8806514daef0\"","schemaPath":"c:\\Users\\Ayyy\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\04f585134c496f4543e5a3e0aab91e2a"}}}'
+vadimcn.vscode-lldb: '{"lastLaunchedVersion":"1.9.1"}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":false,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":false,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.latex","pinned":false,"visible":false,"order":8},{"id":"workbench.view.extension.hexExplorer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.latex-workshop-activitybar","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cmake__viewContainer","pinned":false,"visible":false,"order":10},{"id":"workbench.view.extension.CppRenameActivityBar","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.jupyter","pinned":false,"visible":false,"order":9},{"id":"workbench.view.extension.thunder-client","pinned":true,"visible":false,"order":11},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{\"when\":\"openEditorsVisible\"},{},{},{\"when\":\"time\
+  lineHasProvider\"},{\"when\":\"npm:showScriptExplorer\"},{\"when\":\"go.showE\
+  xplorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"search\
+  -view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\
+  \"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\"\
+  name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount !=
+  '0'\"},{}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view\
+  -icon\"},\"name\":\"Run and
+  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
+  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
+  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
+  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
+  jsDebugHasExcludedCallers && debugType ==
+  'pwa-node'\"},{\"when\":\"cpptools.enableSshTargetsView\"}]},{\"id\":\"workbe\
+  nch.view.extensions\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\
+  \":\"Extensions\",\"isBuiltin\":true,\"views\":[{\"when\":\"defaultExtensionV\
+  iews\"},{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchExtensionUpdat\
+  es || searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
+  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
+  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
+  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
+  en\":\"defaultExtensionViews && hasGallery &&
+  !config.extensions.showRecommendationsOnlyOnDemand &&
+  !sortByUpdateDate\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\":\"s\
+  earchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
+  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
+  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
+  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
+  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
+  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
+  kbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explorer-view-icon\"},\"n\
+  ame\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[{},{\"when\":\"true\"}]},{\"id\":\"w\
+  orkbench.view.extension.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"na\
+  me\":\"Testing\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.providerCo\
+  unt >
+  0\"},{\"when\":\"go.hasProfiles\"}]},{\"id\":\"workbench.view.extension.refer\
+  ences-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"References\",\"\
+  isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\"},{\"when\":\
+  \"cpptools.hasReferencesResults\"}]},{\"id\":\"workbench.view.extension.latex\
+  \",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.hexExplorer\",\"na\
+  me\":\"Hex
+  Editor\",\"isBuiltin\":false,\"views\":[{\"when\":\"hexEditor:showSidebarInsp\
+  ector\"}]},{\"id\":\"workbench.view.extension.latex-workshop-activitybar\",\"\
+  name\":\"LaTeX\",\"isBuiltin\":false,\"views\":[{\"when\":\"latex-workshop:en\
+  abled\"},{\"when\":\"latex-workshop:enabled\"},{\"when\":\"latex-workshop:ena\
+  bled\"}]},{\"id\":\"workbench.view.extension.cmake__viewContainer\",\"isBuilt\
+  in\":false},{\"id\":\"workbench.view.extension.CppRenameActivityBar\",\"isBui\
+  ltin\":false},{\"id\":\"workbench.view.extension.jupyter\",\"themeIcon\":{\"id\
+  \":\"notebook\"},\"name\":\"Jupyter\",\"isBuiltin\":false,\"views\":[]},{\"id\
+  \":\"workbench.view.extension.thunder-client\",\"isBuiltin\":false},{\"id\":\
+  \"workbench.view.sync\",\"themeIcon\":{\"id\":\"settings-sync-view-icon\"},\"\
+  name\":\"Settings
+  Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncConflictsView &&
+  hasConflicts\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews &&
+  userDataSyncAccountStatus == 'available' && syncStatus !=
+  'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"}]},{\"id\":\"workben\
+  ch.view.editSessions\",\"themeIcon\":{\"id\":\"edit-sessions-view-icon\"},\"n\
+  ame\":\"Cloud
+  Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
+  ,{\"id\":\"userDataProfiles\",\"themeIcon\":{\"id\":\"defaultProfile-icon\"},\
+  \"name\":\"Profiles\",\"isBuiltin\":true,\"views\":[]}]"
+workbench.activityBar.hidden: "false"
+workbench.auxiliarybar.size: "256"
+workbench.auxiliaryBar.size: "300"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["ssh_config",true],["bat",true],["jsonc",true],["html",true],["python",true],["markdown",true],["shellscript",true],["properties",true],["diff",true],["makefile",true],["plaintext",true],["yaml",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":true},{"id":"outline","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"timeline","isHidden":false},{"id":"sqlite.explorer","isHidden":false},{"id":"go.explorer","isHidden":false}]'
+workbench.grid.height: "1040"
+workbench.grid.size: '{"height":1040,"width":1920}'
+workbench.grid.width: "1920"
+workbench.panel.alignment: center
+workbench.panel.dimension: bottom
+workbench.panel.lastNonMaximizedHeight: "300"
+workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"workbench.panel.testResults","name":"Test
+  Results","pinned":true,"order":3,"visible":false},{"id":"~remote.forwardedPortsContainer","name":"Ports","pinned":true,"order":5,"visible":false},{"id":"workbench.view.extension.jupyter-variables","name":"Jupyter","pinned":true,"order":6,"visible":false},{"id":"workbench.views.service.panel.35afc66e-cec2-4886-939b-e9d79ed74a49","name":"Problems","pinned":true,"visible":true},{"id":"workbench.views.service.panel.32be647c-14c0-48a0-9fa1-5936edb7f231","name":"Debug
+  Console","pinned":true,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"refactorPreview","name":"Refactor
+  Preview","pinned":true,"visible":false},{"id":"workbench.panel.repl","name":"Debug
+  Console","pinned":true,"order":2,"visible":false},{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":false}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.panel.size: "276"
+workbench.panel.terminal.hidden: '[{"id":"workbench.panel.terminal","isHidden":false,"order":1},{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.scm.views.state.hidden: '[{"id":"scm.mainPane","isHidden":false},{"id":"workbench.scm","isHidden":false},{"id":"scm:repository:-1638543183","isHidden":false},{"id":"scm:repository:-742745198","isHidden":false},{"id":"scm:repository:-1982941938","isHidden":false},{"id":"scm:repository:-1462854057","isHidden":false},{"id":"scm:repository:-617620564","isHidden":false},{"id":"scm:repository:100056575","isHidden":false},{"id":"scm:repository:-1967914111","isHidden":false},{"id":"workbench.scm.repositories","isHidden":true}]'
+workbench.sideBar.position: "0"
+workbench.sidebar.size: "256"
+workbench.sideBar.size: "300"
+workbench.statusbar.hidden: '["status.feedback","status.forwardedPorts","icrawl.discord-vscode","status.workspaceTrust.1624722133841","status.workspaceTrust.1624722139261","status.workspaceTrust.1627469368347","status.workspaceTrust.1627995651521","status.workspaceTrust.0884efe1af4f2b4a9e822050e9966ab9","status.workspaceTrust.22de579de12ef3a3badd0d28e3fbd470","status.workspaceTrust.59c58230089689cacb60a64b93401d89","status.workspaceTrust.1632608694222","status.workspaceTrust.5ccfcac02c60341e7b6b619e5fa2a612","status.workspaceTrust.1634913344906","status.workspaceTrust.1634913772608","status.workspaceTrust.1634917481525","status.workspaceTrust.687c13e2315d9ae60f57c236080669e8","status.workspaceTrust.1636315564855","status.workspaceTrust.1636316384173","status.workspaceTrust.1637089336113","status.workspaceTrust.c7ef8643dfa34fdcdde654bad6fcf24e","status.workspaceTrust.1638452522223"]'
+workbench.statusBar.hidden: "false"
+workbench.telemetryOptOutShown: "true"
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.startView","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"loadedModules","isHidden":false},{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"CppSshTargetsView","isHidden":false}]'
+workbench.view.extension.cmake__viewContainer.state.hidden: '[{"id":"cmake.outline","isHidden":false}]'
+workbench.view.extension.hexExplorer.state.hidden: '[{"id":"hexEditor.dataInspectorView","isHidden":false}]'
+workbench.view.extension.jupyter-variables.state.hidden: '[{"id":"jupyterViewVariables","isHidden":false}]'
+workbench.view.extension.jupyter.state.hidden: '[{"id":"cell-tag","isHidden":false}]'
+workbench.view.extension.latex.state.hidden: '[{"id":"latex-commands","isHidden":false},{"id":"latex-structure","isHidden":false},{"id":"latex-snippet-view","isHidden":false}]'
+workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.tree","isHidden":false},{"id":"CppReferencesView","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"python_tests","isHidden":false},{"id":"testExplorer","isHidden":false},{"id":"workbench.view.testing","isHidden":false},{"id":"go.test.profile","isHidden":false}]'
+workbench.view.extension.thunder-client.state.hidden: '[{"id":"thunder-client-sidebar","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"extensions.popularExtensionsList","isHidden":false},{"id":"extensions.enabledExtensionList","isHidden":false},{"id":"extensions.disabledExtensionList","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"extensions.listView","isHidden":false},{"id":"extensions.enabledExtensionList2","isHidden":false},{"id":"extensions.workspaceRecommendedList","isHidden":false},{"id":"extensions.vscode-local.default","isHidden":false},{"id":"extensions.otherrecommendedList","isHidden":false},{"id":"extensions.disabledExtensionList2","isHidden":false},{"id":"extensions.builtInExtensionsList","isHidden":false},{"id":"extensions.builtInBasicsExtensionsList","isHidden":false},{"id":"extensions.builtInThemesExtensionsList","isHidden":false},{"id":"extensions.vscode-local.installed","isHidden":false},{"id":"extensions.vscode-local.outdated","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.local.installed","isHidden":false},{"id":"workbench.views.extensions.remote.installed","isHidden":false},{"id":"workbench.views.extensions.local.installed.empty","isHidden":false},{"id":"workbench.views.extensions.remote.installed.empty","isHidden":false},{"id":"workbench.views.extensions.installed.empty","isHidden":false},{"id":"workbench.views.extensions.searchTrustRequired","isHidden":false},{"id":"workbench.views.extensions.trustRequiredOnStartExtensions","isHidden":false},{"id":"workbench.views.extensions.trustRequiredOnDemandExtensions","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
+workbench.view.remote.state.hidden: '[{"id":"sshHosts","isHidden":true},{"id":"~remote.helpPanel","isHidden":false},{"id":"~remote.forwardedPorts","isHidden":false},{"id":"targetsWsl","isHidden":false},{"id":"remoteTargets","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.views.extensions.installed.size: "42"
+workbench.views.extensions.local.installed.size: "43"
+workbench.views.extensions.remote.installed.size: "16"
+workbench.views.service.panel.32be647c-14c0-48a0-9fa1-5936edb7f231.state.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.views.service.panel.35afc66e-cec2-4886-939b-e9d79ed74a49.state.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.welcomePage.walkthroughMetadata: '[["ms-vscode.cpptools#cppWelcome",{"firstSeen":1627995639556,"stepIDs":["verify.compiler.mac","verify.compiler.linux","verify.compiler.windows","open.project","setup.intellisense","run.project.mac","run.project.linux","run.project.windows","install.cmake.tools","watch.tutorials"],"manaullyOpened":false}]]'
+zokugun.cron-tasks: '{"version":"0.1.2"}'
