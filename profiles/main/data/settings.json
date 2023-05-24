@@ -11,7 +11,7 @@
         "*.html": "html"
     },
     "explorer.confirmDragAndDrop": false,
-    "editor.fontFamily": "'Operator Mono Lig', 'Fira Code', 'Courier New', monospace",
+    "editor.fontFamily": "'OperatorMonoLig Nerd Font', 'Fira Code', 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.tokenColorCustomizations": {
         "textMateRules": [
@@ -139,5 +139,31 @@
     "remote.SSH.configFile": "\\\\wsl$\\Ubuntu-20.04\\home\\ayyy\\.ssh\\config",
     "remote.SSH.useLocalServer": false,
     "remote.SSH.connectTimeout": 60,
+    "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+        "source": "PowerShell",
+        "icon": "terminal-powershell"
+      },
+      "Command Prompt": {
+        "path": [
+          "${env:windir}\\Sysnative\\cmd.exe",
+          "${env:windir}\\System32\\cmd.exe"
+        ],
+        "args": [],
+        "icon": "terminal-cmd"
+      },
+      "Git Bash": {
+        "source": "Git Bash"
+      },
+      "Ubuntu-20.04 (WSL)": {
+        "path": "C:\\Windows\\System32\\wsl.exe",
+        "args": [
+          "-d",
+          "Ubuntu-20.04"
+        ]
+      }
+    },
+    "terminal.integrated.defaultProfile.windows": "Ubuntu-20.04 (WSL)",
+    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
     // "remote.SSH.path": "C:\\Users\\Ayyy\\wsl_ssh\\wsl_ssh.bat"
 }
