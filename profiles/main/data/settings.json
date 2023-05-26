@@ -55,8 +55,6 @@
       ],
       "prettier.trailingComma": "es5",
       "prettier.useTabs": true,
-      "telemetry.enableCrashReporter": false,
-      "telemetry.enableTelemetry": false,
       "python.formatting.yapfArgs": [
         "--style", "{based_on_style: pep8, indent_width: 2}"
       ],
@@ -73,12 +71,6 @@
       "java.errors.incompleteClasspath.severity": "ignore",
       "workbench.startupEditor": "newUntitledFile",
       "polacode.target": "snippet",
-      "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-      },
-      "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-      },
       "workbench.statusBar.feedback.visible": false,
       "breadcrumbs.enabled": false,
       "workbench.tree.renderIndentGuides": "none",
@@ -130,9 +122,6 @@
     "security.workspace.trust.banner": "never",
     "security.workspace.trust.enabled": false,
     "json.maxItemsComputed": 10000,
-    "[typescript]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "diffEditor.ignoreTrimWhitespace": false,
     "go.toolsManagement.autoUpdate": true,
     "explorer.confirmDelete": false,
@@ -140,21 +129,6 @@
     "remote.SSH.useLocalServer": false,
     "remote.SSH.connectTimeout": 60,
     "terminal.integrated.profiles.windows": {
-      "PowerShell": {
-        "source": "PowerShell",
-        "icon": "terminal-powershell"
-      },
-      "Command Prompt": {
-        "path": [
-          "${env:windir}\\Sysnative\\cmd.exe",
-          "${env:windir}\\System32\\cmd.exe"
-        ],
-        "args": [],
-        "icon": "terminal-cmd"
-      },
-      "Git Bash": {
-        "source": "Git Bash"
-      },
       "Ubuntu-20.04 (WSL)": {
         "path": "C:\\Windows\\System32\\wsl.exe",
         "args": [
@@ -165,5 +139,7 @@
     },
     "terminal.integrated.defaultProfile.windows": "Ubuntu-20.04 (WSL)",
     "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 1,
     // "remote.SSH.path": "C:\\Users\\Ayyy\\wsl_ssh\\wsl_ssh.bat"
 }

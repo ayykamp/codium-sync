@@ -1,0 +1,19 @@
+[    
+    {
+        "key": "ctrl+[Semicolon]",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "ctrl+[Semicolon]",
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+k p",
+        "command": "workbench.action.terminal.kill"
+    },
+    {
+        "key": "ctrl+k p",
+        "command": "-workbench.action.files.copyPathOfActiveFile"
+    }
+]

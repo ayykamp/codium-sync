@@ -2,5 +2,9 @@ disabled: []
 enabled:
   - id: akamud.vscode-theme-onedark
     uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
+  - id: mousavian.ssh-config-syntax-highlighter
+    uuid: null
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: zokugun.cron-tasks
     uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
