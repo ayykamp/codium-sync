@@ -2,9 +2,13 @@ disabled: []
 enabled:
   - id: akamud.vscode-theme-onedark
     uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: mousavian.ssh-config-syntax-highlighter
     uuid: null
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
   - id: zokugun.cron-tasks
     uuid: eb05256f-c7aa-4554-95c6-1bb8e30e0cea
